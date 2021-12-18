@@ -2,6 +2,7 @@
  
  # Front-end : React native
    To run the Front-end Project : open Front-end folder
+   #On your phone: download Expo GO
    Open terminal :
         #for windows 
 	$ipconfig
