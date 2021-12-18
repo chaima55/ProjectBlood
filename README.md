@@ -3,6 +3,10 @@
  # Front-end : React native
    To run the Front-end Project : open Front-end folder
    Open terminal :
+        #for windows 
+	$ipconfig
+	#for linux 
+	$ ifconfig
    	$npm install
  	$ expo start 
   	(the only thing to change is the IP adress in fetch: (`http://<Your_IP_adress/api/v1/bank/>) in the files : stock.js , stockAdmin.js, Transfer.js 	and logIn.js) 
